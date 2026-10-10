@@ -1,0 +1,6 @@
+.git
+node_modules
+.env
+.whatsapp-auth
+coverage
+npm-debug.log*
