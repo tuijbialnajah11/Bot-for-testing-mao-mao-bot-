@@ -1,0 +1,7 @@
+# Local configuration and WhatsApp linked-device credentials
+.env
+.whatsapp-auth/
+
+# Node.js
+node_modules/
+npm-debug.log*
